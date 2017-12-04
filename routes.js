@@ -7,7 +7,7 @@ var dbConfig = {
     server:'localhost',
     database:'personal',
     user:'root',
-    password:'********',
+    password:'<replace with your own password>',
     port:3306,
     multipleStatements: true // overrides a protective measure
 };
