@@ -7,7 +7,7 @@ var dbConfig = {
     server:'localhost',
     database:'personal',
     user:'root',
-    password:'tempcbsql',
+    password:'********',
     port:3306,
     multipleStatements: true // overrides a protective measure
 };
